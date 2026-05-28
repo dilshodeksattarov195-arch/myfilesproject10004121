@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authpalidate",
+        "uuid": 17390620,
+        "checksum": "m5xlrp"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
